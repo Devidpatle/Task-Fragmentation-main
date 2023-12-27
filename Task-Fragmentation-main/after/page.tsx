@@ -1,4 +1,3 @@
-// Custom hook for burning tokens
 const useTokenBurn = () => {
     const {
       walletAddress,

@@ -1,4 +1,3 @@
-// components/after/SomeComponent.js
 import React from 'react';
 import AnotherComponent from './AnotherComponent'; // Update the path based on your actual folder structure
 

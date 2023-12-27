@@ -1,4 +1,3 @@
-// components/after/hooks/useSomeFeature.js
 import { useState, useEffect } from 'react';
 
 const useSomeFeature = () => {

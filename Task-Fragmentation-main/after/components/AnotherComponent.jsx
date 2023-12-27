@@ -1,4 +1,3 @@
-// components/after/AnotherComponent.js
 import React, { useState } from 'react';
 
 const AnotherComponent = ({ onButtonClick }) => {
